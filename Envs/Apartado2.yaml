@@ -1,0 +1,6 @@
+name: DGEGSEA
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+prefix: /home/vant/miniforge3/envs/DGEGSEA
